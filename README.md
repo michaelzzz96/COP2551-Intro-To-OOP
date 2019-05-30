@@ -1,2 +1,2 @@
 # IntroToOOP 
-Collection of Java Projects for my class 
+Java Projects from my into to Java class
